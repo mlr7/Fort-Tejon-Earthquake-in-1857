@@ -10,7 +10,7 @@ The earthquake occurred along the San Andreas Fault and lasted for about one to 
 
 There were numerous aftershocks following the main event, some of which were strong enough to cause additional damage.
 
--The San Andreas fault is the longest fault in California and one of the longest strike-slip faults in the world.
+*The San Andreas fault is the longest fault in California and one of the longest strike-slip faults in the world.
 
 ** The largest foreshocks and aftershocks of the 1857 M 7.9 Fort Tejon earthquake occurring on the central and southern segments of the fault. The Fort Tejon earthquake caused significant ground displacement along the fault, with a maximum offset of approximately 9 meters (30 feet).
 
