@@ -1,12 +1,14 @@
 # Fort-Tejon-Earthquake-in-1857
 Examining the 1857 Fort Tejon Earthquake to understand the future of the San Andreas fault in Northern Los Angeles County
+ 
 
 ![](img/fort_tejon_modern.png)
 
-
 The Fort Tejon earthquake occurred on January 9, 1857 on the San Andreas Fault, and is one of the largest earthquakes in California's recorded history. It was centered approximately 45 miles northeast of San Luis Obispo, near Parkfield, California, and its estimated magnitude was about 7.9 on the moment magnitude scale (Mw). The earthquake is also sometimes referred to as the Great Fort Tejon Earthquake or the 1857 Southern California Earthquake.
 
-The earthquake occurred along the San Andreas Fault and lasted for about one to three minutes, which is a relatively long duration for an earthquake.
+The 1857 Fort Tejon earthquake is significant because it is the last time (as of September 26, 2023) that this mid-southern portion of the San Andreas fault generated a signifcant seismic event.
+
+The earthquake occurred along the San Andreas Fault and lasted for about one to three minutes, a relatively long duration for an earthquake.
 
 There were numerous aftershocks following the main event, some of which were strong enough to cause additional damage.
 
