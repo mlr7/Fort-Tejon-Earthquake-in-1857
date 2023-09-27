@@ -22,7 +22,7 @@ There were numerous aftershocks following the main event, some of which were str
 
 * The aftershock rate of the 1857 Fort Tejon main Earthquake was below average but within one standard deviation of expected numbers based on modern southern California sequences.
 
-* Aftershocks included significant events with magnitudes ranging from M~6 to M~6.7, occurring near the southern half of the rupture and near San Bernardino and the Parkfield segment between December 1858 and April 1860.
+* Aftershocks included significant events with magnitudes ranging from M ~ 6 to M ~ 6.7, occurring near the southern half of the rupture and near San Bernardino and the Parkfield segment between December 1858 and April 1860.
 
 * Based on logs at Fort Tejon, the aftershock sequence lasted a minimum of 3.75 years.
 
