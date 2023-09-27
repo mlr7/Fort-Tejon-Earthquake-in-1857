@@ -12,19 +12,19 @@ There were numerous aftershocks following the main event, some of which were str
 
 * The San Andreas fault is the longest fault in California and one of the longest strike-slip faults in the world.
 
-** The largest foreshocks and aftershocks of the 1857 M 7.9 Fort Tejon earthquake occurring on the central and southern segments of the fault. The Fort Tejon earthquake caused significant ground displacement along the fault, with a maximum offset of approximately 9 meters (30 feet).
+* The largest foreshocks and aftershocks of the 1857 M 7.9 Fort Tejon earthquake occurring on the central and southern segments of the fault. The Fort Tejon earthquake caused significant ground displacement along the fault, with a maximum offset of approximately 9 meters (30 feet).
 
-** Archived first-hand accounts from 1857 through 1862 were analyzed, grouping felt reports temporally and assigning modified Mercalli intensities to each site.
+* Archived first-hand accounts from 1857 through 1862 were analyzed, grouping felt reports temporally and assigning modified Mercalli intensities to each site.
 
-** A modified grid-search algorithm was used to find the location and magnitude of each event, consistent with assigned intensities.
+* A modified grid-search algorithm was used to find the location and magnitude of each event, consistent with assigned intensities.
 
-**At least two foreshocks ("dawn" and "sunrise"), estimated at magnitudes M 6.1 and M ~ 5.6 respectively, were located on or near the Parkfield segment of the San Andreas fault before the main shock.
+* At least two foreshocks ("dawn" and "sunrise"), estimated at magnitudes M 6.1 and M ~ 5.6 respectively, were located on or near the Parkfield segment of the San Andreas fault before the main shock.
 
-** The aftershock rate of the 1857 Fort Tejon main Earthquake was below average but within one standard deviation of expected numbers based on modern southern California sequences.
+* The aftershock rate of the 1857 Fort Tejon main Earthquake was below average but within one standard deviation of expected numbers based on modern southern California sequences.
 
-** Aftershocks included significant events with magnitudes ranging from M~6 to M~6.7, occurring near the southern half of the rupture and near San Bernardino and the Parkfield segment between December 1858 and April 1860.
+* Aftershocks included significant events with magnitudes ranging from M~6 to M~6.7, occurring near the southern half of the rupture and near San Bernardino and the Parkfield segment between December 1858 and April 1860.
 
-** Based on logs at Fort Tejon, the aftershock sequence lasted a minimum of 3.75 years.
+* Based on logs at Fort Tejon, the aftershock sequence lasted a minimum of 3.75 years.
 
 ![](img/CA_1857_1906.png)
 
