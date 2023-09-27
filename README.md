@@ -14,9 +14,7 @@ There were numerous aftershocks following the main event, some of which were str
 
 * The largest foreshocks and aftershocks of the 1857 M 7.9 Fort Tejon earthquake occurring on the central and southern segments of the fault. The Fort Tejon earthquake caused significant ground displacement along the fault, with a maximum offset of approximately 9 meters (30 feet).
 
-* Archived first-hand accounts from 1857 through 1862 were analyzed, grouping felt reports temporally and assigning modified Mercalli intensities to each site.
-
-* A modified grid-search algorithm was used to find the location and magnitude of each event, consistent with assigned intensities.
+* Archived first-hand accounts from 1857 through 1862 have been collected and analyzed, grouping felt reports temporally and assigning modified Mercalli intensities to each site.
 
 * At least two foreshocks ("dawn" and "sunrise"), estimated at magnitudes M 6.1 and M ~ 5.6 respectively, were located on or near the Parkfield segment of the San Andreas fault before the main shock.
 
